@@ -1,0 +1,6 @@
+﻿"Place H-ID","Place Record Title","Place type",Country,"Location (mappable)","Locational certainty","GeoNames ID","Representative image (thumbnail)","Representative image (thumbnail) ID","Representative image (thumbnail) Name","Representative image (thumbnail) Path","Short description","Extended description","Related file(s) or URLs","Related file(s) or URLs ID","Related file(s) or URLs Name","Related file(s) or URLs Path","Locality name","Additional (equivalent) names","City, town or suburb","ADM1 / ADM2 (region, state, county)","France - Région (ADM1)","France - département (ADM2)","Date of name record","Date of name record (temporal)","Start date for named place","Start date for named place (temporal)","End date for named place","End date for named place (temporal)"
+3,Acropole,édifice,Greece,"POINT(23.7348324 37.9755648)",,,,,,,autre,destruction,,,,,Acropole,Propylées,,,,,,,,,,
+5,Agora,statue,Greece,"POINT(23.7348324 37.9755648)",,,,,,,statue,construction,,,,,Agora,"Statue de Thémistocle",,,,,,,,,,
+25,Acropole,édifice,Greece,"POINT(23.7348324 37.9755648)","1. High confidence",,,,,,,,,,,,Acropole,Parthénon,,,,,,,,,,
+27,Agora,statue,Greece,"POINT(23.7348324 37.9755648)","1. High confidence",,,,,,,,,,,,Agora,Tyrannoctones,,,,,,,,,,
+29,Agora,édifice,Greece,"POINT(23.7348324 37.9755648)","1. High confidence",,,,,,,,,,,,Agora,Odéon,,,,,,,,,,
